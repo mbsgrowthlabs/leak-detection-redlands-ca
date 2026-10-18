@@ -1,0 +1,76 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/index.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/about.html",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/blog.html",
+      "destination": "/blog",
+      "permanent": true
+    },
+    {
+      "source": "/contact.html",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/gas-leak-detection.html",
+      "destination": "/gas-leak-detection",
+      "permanent": true
+    },
+    {
+      "source": "/leak-detection-downtown-redlands.html",
+      "destination": "/leak-detection-downtown-redlands",
+      "permanent": true
+    },
+    {
+      "source": "/leak-detection-north-redlands.html",
+      "destination": "/leak-detection-north-redlands",
+      "permanent": true
+    },
+    {
+      "source": "/locations.html",
+      "destination": "/locations",
+      "permanent": true
+    },
+    {
+      "source": "/pool-leak-detection.html",
+      "destination": "/pool-leak-detection",
+      "permanent": true
+    },
+    {
+      "source": "/privacy-policy.html",
+      "destination": "/privacy-policy",
+      "permanent": true
+    },
+    {
+      "source": "/services.html",
+      "destination": "/services",
+      "permanent": true
+    },
+    {
+      "source": "/sewer-line-leak-detection.html",
+      "destination": "/sewer-line-leak-detection",
+      "permanent": true
+    },
+    {
+      "source": "/slab-leak-detection.html",
+      "destination": "/slab-leak-detection",
+      "permanent": true
+    },
+    {
+      "source": "/water-leak-detection.html",
+      "destination": "/water-leak-detection",
+      "permanent": true
+    }
+  ]
+}
