@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /api/
 
-Sitemap: https://leakdetectionredlandsca.com/sitemap.xml
+Sitemap: https://mbsgrowthlabs.github.io/sitemap.xml
